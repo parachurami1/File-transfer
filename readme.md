@@ -26,7 +26,7 @@ Follow these steps to get started with the Network File Transfer project:
 
 4. **Run the file from the command line "python recv.py [filename]"(from the client system)**
 
-5. **You can reach out to this email for further directions: kaile.gerald@lmu.edu.ng**
+5. **You can reach out to this email for further directions: kaile.gerald@lmu.edu.ng,ezimako.elvis@lmu.edu.ng**
 
 ## 🌐 Network Considerations
 For successful file transfer, ensure that both the sender and receiver are connected to the same local network.
